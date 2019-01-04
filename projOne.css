@@ -1,0 +1,65 @@
+.headerStyle{
+  position: absolute;
+  right: 100px;
+  top: 6px;
+}
+.leftSection{
+background-color: pink;
+}
+#section_articleOneIden {
+  position: absolute;
+  left: 355px;
+  top: 105px;
+  width: 1px;
+  height: 60px;
+  z-index: 3;
+}
+.style2 {
+  height: 60px;
+  width: 1px;
+}
+#article_one{
+  position: absolute;
+  left: 420px;
+  top: 100px;
+  width: 315px;
+  height: 195px;
+  z-index: 2;
+}
+#section_articleTwoIden{
+  position: absolute;
+  left: 355px;
+  top: 355px;
+  width: 1px;
+  height: 60px;
+  z-index: 3;
+}
+#article_two{
+  position: absolute;
+  left: 420px;
+  top: 350px;
+  width: 315px;
+  height: 195px;
+  z-index: 2;
+}
+.HRstyle{
+  position: absolute;
+  left: 420px;
+  top: 320px;
+  width: 315px;
+  height: 2px;
+  z-index: 3;
+}
+#aside{
+  position: absolute;
+  left: 745px;
+  top: 200px;
+  width: 150px;
+  height: 195px;
+  z-index: 6;
+  background-color: #808080;
+  color: #ffffff;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  padding: 5px;
+}
